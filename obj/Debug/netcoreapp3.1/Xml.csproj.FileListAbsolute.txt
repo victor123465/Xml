@@ -1,0 +1,11 @@
+C:\BSW\Xml\bin\Debug\netcoreapp3.1\Xml.exe
+C:\BSW\Xml\bin\Debug\netcoreapp3.1\Xml.deps.json
+C:\BSW\Xml\bin\Debug\netcoreapp3.1\Xml.runtimeconfig.json
+C:\BSW\Xml\bin\Debug\netcoreapp3.1\Xml.runtimeconfig.dev.json
+C:\BSW\Xml\bin\Debug\netcoreapp3.1\Xml.dll
+C:\BSW\Xml\bin\Debug\netcoreapp3.1\Xml.pdb
+C:\BSW\Xml\obj\Debug\netcoreapp3.1\Xml.csprojAssemblyReference.cache
+C:\BSW\Xml\obj\Debug\netcoreapp3.1\Xml.csproj.CoreCompileInputs.cache
+C:\BSW\Xml\obj\Debug\netcoreapp3.1\Xml.dll
+C:\BSW\Xml\obj\Debug\netcoreapp3.1\Xml.pdb
+C:\BSW\Xml\obj\Debug\netcoreapp3.1\Xml.genruntimeconfig.cache

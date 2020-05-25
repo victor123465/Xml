@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Configuracion>
+  <Fecha>12/03/2014</Fecha>
+  <ColorFondo>Blue</ColorFondo>
+  <ColorTexto>Yellow</ColorTexto>
+  <Alto>14</Alto>
+  <Ancho>78</Ancho>
+  <EspacioLibre>429349806080</EspacioLibre>
+  <Usuario>
+    <Tipo>Administrador</Tipo>
+    <Nombre>Victor</Nombre>
+    <Contraseña>fadlkoi2</Contraseña>
+  </Usuario>
+  <Usuario>
+    <Tipo>Administrador</Tipo>
+    <Nombre>Paco</Nombre>
+    <Contraseña>sdalei</Contraseña>
+  </Usuario>
+  <Usuario>
+    <Tipo>Administrador</Tipo>
+    <Nombre>Victor</Nombre>
+    <Contraseña>adloww</Contraseña>
+  </Usuario>
+</Configuracion>
